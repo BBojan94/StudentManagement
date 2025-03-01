@@ -34,6 +34,17 @@ This is a Spring Boot and MongoDB-based Student Management System that allows us
     - application.properties  # Configuration file
   - ppom.xml                                    # Maven dependencies
 
+@@ API Endpoints
+
+| Method         | Endpoint               | Description               |
+|----------------|------------------------|---------------------------|
+| GET            | /students              | Get all students          |
+| GET            | /students/{id}         | Get student by ID         |
+| POST           | /students              | Add a new student         |
+| PUT            | /students/{id}         | Update a student          |
+| DELETE         | /students/{id}         | Delete a student          |
+
 ## Author
 Bojan Bozovic\
 GitHub: [BBojan94](https://github.com/BBojan94)
+
