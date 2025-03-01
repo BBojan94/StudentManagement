@@ -34,3 +34,6 @@ This is a Spring Boot and MongoDB-based Student Management System that allows us
     - application.properties  # Configuration file
   - ppom.xml                                    # Maven dependencies
 
+## Author
+Bojan Bozovic
+GitHub: [BBojan94] (https://github.com/BBojan94)
