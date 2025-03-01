@@ -34,7 +34,7 @@ This is a Spring Boot and MongoDB-based Student Management System that allows us
     - application.properties  # Configuration file
   - ppom.xml                                    # Maven dependencies
 
-@@ API Endpoints
+## API Endpoints
 
 | Method         | Endpoint               | Description               |
 |----------------|------------------------|---------------------------|
