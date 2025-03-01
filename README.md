@@ -23,14 +23,14 @@ This is a Spring Boot and MongoDB-based Student Management System that allows us
 ## Project Structure
 
 - student-management/
--- src/main/java/com/example/studentmanagement/
---- model/                  # Contains entity classes
---- dto/                    # Data Transfer Objects
---- repository/             # MongoDB repository interfaces
---- service/                # Business logic layer
---- controller/             # REST API controllers
---- config/                 # MongoDB configurations
--- src/main/resources/
---- application.properties  # Configuration file
--- ppom.xml                                    # Maven dependencies
+  - src/main/java/com/example/studentmanagement/
+    - model/                  # Contains entity classes
+    - dto/                    # Data Transfer Objects
+    - repository/             # MongoDB repository interfaces
+    - service/                # Business logic layer
+    - controller/             # REST API controllers
+    - config/                 # MongoDB configurations
+  - src/main/resources/
+    - application.properties  # Configuration file
+  - ppom.xml                                    # Maven dependencies
 
