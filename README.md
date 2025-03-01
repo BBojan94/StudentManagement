@@ -24,13 +24,13 @@ This is a Spring Boot and MongoDB-based Student Management System that allows us
 
 student-management/\
 │-- src/main/java/com/example/studentmanagement\
-│   │-- model/            # Contains entity classes\
-│   │-- dto/              # Data Transfer Objects\
-│   │-- repository/       # MongoDB repository interfaces\
-│   │-- service/          # Business logic layer\
-│   │-- controller/       # REST API controllers\
-│   │-- config/           # MongoDB configurations\
+│&nbsp;&nbsp;&nbsp;│-- model/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Contains entity classes\
+│&nbsp;&nbsp;&nbsp;│-- dto/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Data Transfer Objects\
+│&nbsp;&nbsp;&nbsp;│-- repository/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# MongoDB repository interfaces\
+│&nbsp;&nbsp;&nbsp;│-- service/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Business logic layer\
+│&nbsp;&nbsp;&nbsp;│-- controller/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# REST API controllers\
+│&nbsp;&nbsp;&nbsp;│-- config/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# MongoDB configurations\
 │-- src/main/resources/\
-│   │-- application.properties  # Configuration file\
+│&nbsp;&nbsp;&nbsp;│-- application.properties  # Configuration file\
 │-- pom.xml               # Maven dependencies
 
