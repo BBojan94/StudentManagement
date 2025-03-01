@@ -23,11 +23,8 @@ This is a Spring Boot and MongoDB-based Student Management System that allows us
 ## Project Structure
 
 student-management/
-
 │-- src/main/java/com/example/studentmanagement
-
 │   │-- model/            # Contains entity classes
-
 │   │-- dto/              # Data Transfer Objects
 
 │   │-- repository/       # MongoDB repository interfaces
