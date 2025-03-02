@@ -40,7 +40,7 @@ This is a Spring Boot and MongoDB-based Student Management System that allows us
 |----------------|------------------------|---------------------------|
 | GET            | /students              | Get all students          |
 | GET            | /students/{id}         | Get student by ID         |
-| POST           | /students              | Add a new student         |
+| POST           | /students/addStudent   | Add a new student         |
 | PUT            | /students/{id}         | Update a student          |
 | DELETE         | /students/{id}         | Delete a student          |
 
